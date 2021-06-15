@@ -43,11 +43,10 @@
  
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohamediosDev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Mohamed's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MohamediosDev&show_icons=true&hide_border=true" />
-</details>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamediosDev&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=material-palenight&line_height=40" />
+
 
 
 
