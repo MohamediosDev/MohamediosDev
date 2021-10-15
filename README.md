@@ -1,7 +1,6 @@
 
 
 <p align="center">
-  <h2 align="center">IOS Developer🚀❤️</h2>
 </p>
 
 <p align="center">
