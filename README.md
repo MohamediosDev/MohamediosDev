@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img align="center" width="80%" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="header"/>
+  <img align="center" width="80%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif" alt="header"/>
   <br>
  
 </p>
