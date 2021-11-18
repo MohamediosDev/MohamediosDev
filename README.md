@@ -9,7 +9,7 @@
  
 </p>
 <p align="center">
-<a href="https://twitter.com/Mohamed96923663">
+<a href="https://twitter.com/Soda227_4">
   <img align="centre" alt="Mohamed | Twitter" width="45px" src="https://cdn3.iconfinder.com/data/icons/social-media-circle/512/circle-twitter-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/mohamed-sayed-abd-el-maksoud22/">
