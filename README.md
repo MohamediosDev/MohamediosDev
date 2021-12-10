@@ -68,9 +68,9 @@
 
 
 ---------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamediosDev&hide=jupyter%20notebook&langs_count=5&layout=compact,html)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://metrics.lecoq.io/MohamediosDev)
+ ![Metrics](https://metrics.lecoq.io/MohamediosDev)
+
 
 ##### Some of the technologies I have worked with
 ![Swift](https://img.shields.io/badge/Swift-222222?style=flat&logo=swift)
