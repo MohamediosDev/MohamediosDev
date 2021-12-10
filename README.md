@@ -8,6 +8,13 @@
   <br>
  
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&color=%233FF759&center=true&vCenter=true&lines=Hello+My+Name+Is+Mohammed+sayed+%F0%9F%A4%97;IOS+Developer%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Welcome+To+My+Github%F0%9F%8E%A9)](https://git.io/typing-svg)
+
+<p align="center">
+<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/MohamediosDev?label=Followers&style=social">
+</p>
+
 <p align="center">
 <a href="https://twitter.com/Soda227_4">
   <img align="centre" alt="Mohamed | Twitter" width="45px" src="https://cdn3.iconfinder.com/data/icons/social-media-circle/512/circle-twitter-512.png" />
@@ -42,16 +49,28 @@
  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohamediosDev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamediosDev&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=material-palenight&line_height=40" />
+![github graph](https://activity-graph.herokuapp.com/graph?username=MohamediosDev&theme=react-dark)
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohamediosDev&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<div align="center">
+<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
+<div style="display: flex; align-items: center; justify-content: center;">
+
+[![](https://github-readme-stats.vercel.app/api?username=MohamediosDev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/garbinmarcelo)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=MohamediosDev&theme=tokyonight&hide_border=true)](https://github.com/garbinmarcelo)
+
+</div>
+</div>
 
 
 ---------------------------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamediosDev&hide=jupyter%20notebook&langs_count=5&layout=compact,html)](https://github.com/anuraghazra/github-readme-stats)
 
+![Metrics](https://metrics.lecoq.io/MohamediosDev)
 
 ##### Some of the technologies I have worked with
 ![Swift](https://img.shields.io/badge/Swift-222222?style=flat&logo=swift)
