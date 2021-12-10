@@ -61,7 +61,7 @@
 <div style="display: flex; align-items: center; justify-content: center;">
 
 [![](https://github-readme-stats.vercel.app/api?username=MohamediosDev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/garbinmarcelo)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MohamediosDev&theme=tokyonight&hide_border=true)](https://github.com/garbinmarcelo)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=MohamediosDev&theme=tokyonight&hide_border=true)](https://github.com/MohamediosDev)
 
 </div>
 </div>
