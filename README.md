@@ -4,12 +4,17 @@
 </p>
 
 <p align="center">
-  <img align="center" width="80%" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="header"/>
+  <img align="center" width="100%" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="header"/>
   <br>
  
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&color=%233FF759&center=true&vCenter=true&lines=Hello+My+Name+Is+Mohammed+sayed+%F0%9F%A4%97;IOS+Developer%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Welcome+To+My+Github%F0%9F%8E%A9)](https://git.io/typing-svg)
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=My+Name+Is+Mohammed+Sayed;IOS+Developer;Welcome+To+My+Github&font=Fira%20Code&center=true&width=380&height=50">
+</p>
+
 
 <p align="center">
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/MohamediosDev?label=Followers&style=social">
