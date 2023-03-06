@@ -46,37 +46,8 @@
 
 
 ---------------------------------------------------
-- Check My website : <a href="https://mohamediosdev.github.io/MY-Rusme/"> Mohamed Sayed 🚀 </a>
-- 🔭 I’m working on Swift 
-- 🌱 I’m currently learning **swfitUI**<img src="https://github.com/ioslam/ioslam/blob/main/swiftui.png" width="12px">
-- 💬 Ask me about any thing 💻
 - 📫 How to reach me: Imohamedsayed22@gmail.com 🚀 
- 
-
-
-![github graph](https://activity-graph.herokuapp.com/graph?username=MohamediosDev&theme=react-dark)
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohamediosDev&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<div align="center">
-<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
-<div style="display: flex; align-items: center; justify-content: center;">
-
-[![](https://github-readme-stats.vercel.app/api?username=MohamediosDev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/garbinmarcelo)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MohamediosDev&theme=tokyonight&hide_border=true)](https://github.com/MohamediosDev)
-
-</div>
-</div>
-
-
 ---------------------------------------------------
-
- ![Metrics](https://metrics.lecoq.io/MohamediosDev)
-
-
 ##### Some of the technologies I have worked with
 ![Swift](https://img.shields.io/badge/Swift-222222?style=flat&logo=swift)
 ![UIKit](https://img.shields.io/badge/UIKit-222222?style=flat&logo=UIKit)
@@ -85,4 +56,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 ![HTML5](https://img.shields.io/badge/HTML5-222222?style=flat&logo=html5)
-
+![CircleCi](https://img.shields.io/badge/Circleci-222222?style=flat&logo=circleci)
+![Bitrise](https://img.shields.io/badge/Bitrise-222222?style=flat&logo=bitrise)
