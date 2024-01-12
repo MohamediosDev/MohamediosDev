@@ -20,15 +20,9 @@
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/MohamediosDev?label=Followers&style=social">
 </p>
 
-<p align="center">
-<a href="https://twitter.com/Soda227_4">
-  <img align="centre" alt="Mohamed | Twitter" width="45px" src="https://cdn3.iconfinder.com/data/icons/social-media-circle/512/circle-twitter-512.png" />
-</a>
+
 <a href="https://www.linkedin.com/in/mohamed-sayed-abd-el-maksoud22/">
   <img align="centre" alt="Mohamed's LinkdeIN" width="45px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png" />
-</a>
-<a href="https://www.instagram.com/dev.soda.227/">
-  <img align="centre" alt="Mohamed's Instagram" width="45px" src="https://www.pngkey.com/png/full/283-2831746_insta-icon-instagram.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCoMY_YmmIrBw1Umgbu_dT_Q">
   <img align="centre" alt="Mohamed's Youtube" width="45px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/youtube-512.png" />
