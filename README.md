@@ -8,14 +8,6 @@
   <br>
  
 </p>
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=My+Name+Is+Mohammed+Sayed;IOS+Developer;Welcome+To+My+Github&font=Fira%20Code&center=true&width=380&height=50">
-</p>
-
-
 <p align="center">
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/MohamediosDev?label=Followers&style=social">
 </p>
