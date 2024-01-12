@@ -20,22 +20,11 @@
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/MohamediosDev?label=Followers&style=social">
 </p>
 
-
-<a href="https://www.linkedin.com/in/mohamed-sayed-abd-el-maksoud22/">
-  <img align="centre" alt="Mohamed's LinkdeIN" width="45px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png" />
-</a>
-<a href="https://www.youtube.com/channel/UCoMY_YmmIrBw1Umgbu_dT_Q">
-  <img align="centre" alt="Mohamed's Youtube" width="45px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/youtube-512.png" />
-</a>
- <a href="https://www.imohamedsayed22@gmail.com">
-  <img align="centre" alt="Mohamed's Gmail" width="45px"  src ="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"
-/>
-</a> 
-</p>
-
-
-
-
+<h3>Where to find me</h3>
+<p><a href="https://github.com/MohamediosDev" target="_blank">
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a> <a href="https://www.linkedin.com/in/mohamed-sayed-abd-el-maksoud22" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 
